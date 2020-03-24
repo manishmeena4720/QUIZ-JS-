@@ -1,0 +1,86 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+li{
+    list-style-type: none;
+    color:white;
+    background-color: rgb(1,187,255);
+    border: solid 2px rgb(20,103,156);
+    margin:20px;
+    width: 150;
+    height: 20;
+    text-align: center;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    position: absolute;
+    top: 150px;
+    left:450;
+    visibility: hidden;
+}
+.div1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    position: absolute;
+    top: 150px;
+    left:450
+}
+.head{
+    color:white;
+    background-color: rgb(1,187,255);
+    font-size: 40;
+    text-align: center;
+    width:500px;
+}
+.inline{
+    width: 500px;
+    height: 300px;
+    text-align: left;
+    color: rgb(1,187,255);
+}
+.line{
+    text-align: center;
+    font-size: 30;
+    color: rgb(1,187,255);
+}
+.q{
+    text-align: left;
+    font-size: 12px;
+    margin-top: 10px;
+    border-top:solid 1px grey;
+    color: grey;
+}
+button{
+    background-color: rgb(1,187,255);
+    color: white;
+    height:30px
+}
+#side{
+    background-color: rgb(1,187,255);
+    color: white;
+    float: right;
+    padding: 10;
+    font-size: 20;
+    //visibility: hidden;
+}
+#name,#input{
+    width: 200;
+    height: 30;
+    background-color: white;
+    color: rgb(1,187,255);
+    font-size: 20;
+}
+#click{
+    text-align: left;
+    font-size: 15;
+}
+#score{
+    color:white;
+}
